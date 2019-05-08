@@ -20,6 +20,7 @@ function App() {
         </a>
         <p>jenkins auto build</p>
         <p>Move to site</p>
+        <p>mv 替代 cp shell</p>
       </header>
     </div>
   );
