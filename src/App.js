@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
         <p>jenkins auto build</p>
+        <p>Move to site</p>
       </header>
     </div>
   );
