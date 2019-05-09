@@ -16,6 +16,7 @@ function App() {
         <p>MV改成cp不然远程传输为空</p>
         <p>修改shell脚本</p>
         <p>修复了远程构建路径---重新构建尝试--修复root密码</p>
+        <p>构建失败</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
