@@ -17,6 +17,7 @@ function App() {
         <p>修改shell脚本</p>
         <p>修复了远程构建路径---重新构建尝试--修复root密码</p>
         <p>构建失败</p>
+        <p>最终版本测试</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
