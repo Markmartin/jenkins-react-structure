@@ -15,7 +15,7 @@ function App() {
         <p>删除远程脚本删除所有文件操作</p>
         <p>MV改成cp不然远程传输为空</p>
         <p>修改shell脚本</p>
-        <p>修复了远程构建路径---重新构建尝试</p>
+        <p>修复了远程构建路径---重新构建尝试--修复root密码</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
