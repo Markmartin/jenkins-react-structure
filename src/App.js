@@ -13,6 +13,7 @@ function App() {
         <p>清除目标目录所有文件</p>
         <p>删除远程目标目录，并进行部署</p>
         <p>删除远程脚本删除所有文件操作</p>
+        <p>MV改成cp不然远程传输为空</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
